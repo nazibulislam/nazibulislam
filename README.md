@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
------
+---
+![](https://komarev.com/ghpvc/?username=nazibulislam&color=blueviolet&style=plastic)
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazibulislam&count_private=true&show_icons=true&theme=nightowl) &nbsp; &nbsp; &nbsp; &nbsp; 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazibulislam&langs_count=8&theme=nightowl)
