@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ---
-![](https://komarev.com/ghpvc/?username=nazibulislam&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=nazibulislam&color=blueviolet&style=flat)
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazibulislam&count_private=true&show_icons=true&theme=nightowl) &nbsp; &nbsp; &nbsp; &nbsp; 
